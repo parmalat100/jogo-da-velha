@@ -1,0 +1,43 @@
+
+#mostrador {
+margin:auto ;
+margin-top: 50px;
+width: 462px;
+height: 80px;
+}
+
+#mostrador img{
+    width: 50px;
+    height: 50px;
+}
+
+p{
+    float: left;
+    margin-right: 10px;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+}
+.espaco {
+    width: 150px;
+    height: 130px;
+    border: solid 2px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#jogo {
+   width: 462px;
+    height: 462px;
+    margin: auto;
+}
+
+#atualizar{
+    margin: 20px auto;
+    width: 200px; /* Valor da Largura */
+   
+}
+
